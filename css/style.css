@@ -305,14 +305,16 @@ input[type="search"]::-webkit-search-cancel-button {
 
 .advertising{
     height: 300px;
+    width: 100%;
+    background-color: #fff;
 }
 
 .main{
-
+    margin-top: 10px;
 }
 
 .section1{
-
+    
 }
 
 .title_main{
