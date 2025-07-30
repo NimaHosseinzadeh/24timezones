@@ -384,3 +384,52 @@ input[type="search"]::-webkit-search-cancel-button {
     height: 77px;
     background-color: rgb(217, 228, 251);
 }
+
+.section2{
+    margin-top: 55px;
+}
+
+.title_map{
+    font-size: 20px;
+}
+
+.line_title_map{
+    border-bottom: 3px solid #ffc531;
+}
+
+.desc_map{
+    color: #3a3a3a ;
+    font-size: 15px;
+    margin-top: 20px;
+    margin: 20px;
+}
+
+.icon_desc{
+    display: flex;
+    
+}
+
+.icon_map{
+    width: 24px;
+    height: 24px;
+    margin: 0 15px;
+}
+
+.text_clock{
+    font-size: 14px;
+}
+
+.clock_map_clock {
+    margin-left: 20px;
+}
+
+
+.clock_map_img1{
+    position: relative;
+    left: 10px;
+}
+
+.clock_map_img2{
+    position: relative;
+    left: 30px;
+}
