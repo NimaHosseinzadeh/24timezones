@@ -341,3 +341,46 @@ input[type="search"]::-webkit-search-cancel-button {
 .pic_main{
     margin-top: 30px;
 }
+
+.boxs_under_pic_main{
+    display: flex;
+
+}
+.boxs_under_pic_main a{
+    color: black;
+    margin: 10px 2px;
+
+}
+
+.boxs_under_pic_main .box_txt1{
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 209px;
+    height: 77px;
+    background-color: rgb(255, 235, 114);
+}
+
+.boxs_under_pic_main .box_txt2{
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 174px;
+    height: 77px;
+    background-color: rgb(240, 251, 211);
+}
+
+.boxs_under_pic_main .box_txt3{
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 265px;
+    height: 77px;
+    background-color: rgb(217, 228, 251);
+}
